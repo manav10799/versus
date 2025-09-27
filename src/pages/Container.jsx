@@ -32,20 +32,20 @@ const Container = () => {
         Effortlessly compare mobiles, laptops, headphones, and more. Make
         smarter buying decisions with side-by-side product insights.
       </p>
-      <ul className="flex gap-6 mt-6">
+      <ul className="flex flex-wrap justify-center gap-4 sm:gap-6 mt-6 px-2 w-full">
         {categories.map((category) => (
           <li
             onClick={() => navigate(`/category/${category.id}`)}
             key={category.id}
-            className="flex flex-col items-center px-5 py-2 rounded-lg bg-gray-100 dark:bg-gray-800 text-gray-800 dark:text-gray-200 font-medium shadow-sm hover:bg-gray-200 dark:hover:bg-gray-700 cursor-pointer transition-colors w-32"
+            className="flex flex-col items-center px-4 py-3 sm:px-5 sm:py-4 rounded-lg bg-gray-100 dark:bg-gray-800 text-gray-800 dark:text-gray-200 font-medium shadow-sm hover:bg-gray-200 dark:hover:bg-gray-700 cursor-pointer transition-colors w-24 sm:w-32 mb-4"
           >
             <img
               src={category.image}
               alt={category.name}
-              className="w-16 h-16 object-contain mb-2 rounded-md bg-white dark:bg-gray-900 shadow"
+              className="w-14 h-14 sm:w-16 sm:h-16 object-contain mb-2 rounded-md bg-white dark:bg-gray-900 shadow"
               loading="lazy"
             />
-            <span>{category.name}</span>
+            <span className="text-sm sm:text-base">{category.name}</span>
           </li>
         ))}
       </ul>
