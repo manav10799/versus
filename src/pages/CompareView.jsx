@@ -17,7 +17,7 @@ const CompareView = () => {
         <p className="text-lg mb-4">Select at least 2 products to compare.</p>
         <button
           onClick={() => navigate(`/category/${categoryId}`)}
-          className="px-4 py-1 bg-blue-600 text-white rounded-lg hover:bg-blue-700"
+          className="px-4 py-1 bg-blue-600 text-white rounded-lg hover:bg-blue-700 cursor-pointer"
         >
           Back to Products
         </button>
@@ -36,7 +36,7 @@ const CompareView = () => {
       <div className="flex justify-between items-center mb-6">
         <button
           onClick={() => navigate(`/category/${categoryId}`)}
-          className="text-blue-600 dark:text-blue-400 font-medium flex items-center gap-1"
+          className="text-blue-600 dark:text-blue-400 font-medium flex items-center gap-1 cursor-pointer"
         >
           ← Back to Products
         </button>
@@ -44,7 +44,7 @@ const CompareView = () => {
           onClick={() => {
             dispatch(clearCompareItems());
           }}
-          className="px-4 py-1 bg-red-500 text-white rounded-lg hover:bg-red-600"
+          className="px-4 py-1 bg-red-500 text-white rounded-lg hover:bg-red-600 cursor-pointer"
         >
           Clear All
         </button>
@@ -61,7 +61,7 @@ const CompareView = () => {
             className="p-4 bg-white dark:bg-gray-800 rounded-lg shadow relative"
           >
             <button
-              className="absolute top-3 right-3 text-red-500 hover:text-red-700"
+              className="absolute top-3 right-3 text-red-500 hover:text-red-700 cursor-pointer"
               onClick={() => {
                 dispatch(removeCompareItem(item.id));
               }}
