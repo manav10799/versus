@@ -1,0 +1,822 @@
+[
+  {
+    "id": 1,
+    "category": "mobiles",
+    "name": "iPhone 17 Pro",
+    "brand": "Apple",
+    "price": "$1099",
+    "features": {
+      "processor": "A19 Pro",
+      "ram": "12GB",
+      "battery_playback": "25h",
+      "screen": "6.1in Super Retina XDR",
+      "storage": "256GB",
+      "main_camera": "48MP Wide + 48MP UltraWide + 48MP Telephoto (8x optical-quality zoom)",
+      "os": "iOS 26"
+    },
+    "image": "https://5.imimg.com/data5/SELLER/Default/2021/9/HR/PW/SE/32162519/vivo-mobile-phone.png"
+  },
+  {
+    "id": 2,
+    "category": "mobiles",
+    "name": "Samsung Galaxy S24",
+    "brand": "Samsung",
+    "price": "$899",
+    "features": {
+      "processor": "Snapdragon 8 Gen 3 for Galaxy",
+      "ram": "8GB",
+      "battery_usage": "24h",
+      "screen": "6.2in Dynamic AMOLED 2X",
+      "storage": "256GB",
+      "main_camera": "50MP Wide + 12MP UltraWide + 10MP Telephoto",
+      "os": "Android 15 (One UI 7)"
+    },
+    "image": "https://5.imimg.com/data5/SELLER/Default/2021/9/HR/PW/SE/32162519/vivo-mobile-phone.png"
+  },
+  {
+    "id": 3,
+    "category": "mobiles",
+    "name": "Google Pixel 9",
+    "brand": "Google",
+    "price": "$799",
+    "features": {
+      "processor": "Google Tensor G4",
+      "ram": "12GB",
+      "battery_usage": "24h",
+      "screen": "6.2in Actua Display",
+      "storage": "128GB",
+      "main_camera": "50MP Wide + 12MP UltraWide",
+      "os": "Android 15"
+    },
+    "image": "https://5.imimg.com/data5/SELLER/Default/2021/9/HR/PW/SE/32162519/vivo-mobile-phone.png"
+  },
+  {
+    "id": 4,
+    "category": "mobiles",
+    "name": "OnePlus 12",
+    "brand": "OnePlus",
+    "price": "$799",
+    "features": {
+      "processor": "Snapdragon 8 Gen 3",
+      "ram": "12GB",
+      "battery_capacity": "5400mAh",
+      "screen": "6.82in Fluid AMOLED",
+      "storage": "256GB",
+      "main_camera": "50MP Wide + 48MP UltraWide + 64MP Periscope Telephoto",
+      "os": "Android 14 (OxygenOS 14)"
+    },
+    "image": "https://5.imimg.com/data5/SELLER/Default/2021/9/HR/PW/SE/32162519/vivo-mobile-phone.png"
+  },
+  {
+    "id": 5,
+    "category": "mobiles",
+    "name": "Xiaomi 14 Pro",
+    "brand": "Xiaomi",
+    "price": "$899",
+    "features": {
+      "processor": "Snapdragon 8 Gen 3",
+      "ram": "12GB",
+      "battery_capacity": "4880mAh",
+      "screen": "6.73in LTPO AMOLED",
+      "storage": "256GB",
+      "main_camera": "50MP Wide + 50MP UltraWide + 50MP Telephoto",
+      "os": "Android 14 (HyperOS)"
+    },
+    "image": "https://5.imimg.com/data5/SELLER/Default/2021/9/HR/PW/SE/32162519/vivo-mobile-phone.png"
+  },
+  {
+    "id": 6,
+    "category": "mobiles",
+    "name": "Sony Xperia 1 VI",
+    "brand": "Sony",
+    "price": "$1299",
+    "features": {
+      "processor": "Snapdragon 8 Gen 3",
+      "ram": "12GB",
+      "battery_capacity": "5000mAh",
+      "screen": "6.5in 4K OLED",
+      "storage": "512GB",
+      "main_camera": "48MP Wide + 12MP UltraWide + 12MP Telephoto (Variable)",
+      "os": "Android 15"
+    },
+    "image": "https://5.imimg.com/data5/SELLER/Default/2021/9/HR/PW/SE/32162519/vivo-mobile-phone.png"
+  },
+  {
+    "id": 7,
+    "category": "mobiles",
+    "name": "Motorola Edge 50 Ultra",
+    "brand": "Motorola",
+    "price": "$999",
+    "features": {
+      "processor": "Snapdragon 8s Gen 3",
+      "ram": "12GB",
+      "battery_capacity": "4500mAh",
+      "screen": "6.7in P-OLED (144Hz)",
+      "storage": "512GB",
+      "main_camera": "50MP Wide + 50MP UltraWide + 64MP Telephoto",
+      "os": "Android 14"
+    },
+    "image": "https://5.imimg.com/data5/SELLER/Default/2021/9/HR/PW/SE/32162519/vivo-mobile-phone.png"
+  },
+  {
+    "id": 8,
+    "category": "mobiles",
+    "name": "Asus ROG Phone 8 Pro",
+    "brand": "Asus",
+    "price": "$1199",
+    "features": {
+      "processor": "Snapdragon 8 Gen 3",
+      "ram": "16GB",
+      "battery_capacity": "5500mAh",
+      "screen": "6.78in AMOLED (165Hz)",
+      "storage": "512GB",
+      "main_camera": "50MP Wide + 13MP UltraWide + 32MP Telephoto",
+      "os": "Android 14 (ROG UI)"
+    },
+    "image": "https://5.imimg.com/data5/SELLER/Default/2021/9/HR/PW/SE/32162519/vivo-mobile-phone.png"
+  },
+  {
+    "id": 9,
+    "category": "mobiles",
+    "name": "Realme GT 6",
+    "brand": "Realme",
+    "price": "$699",
+    "features": {
+      "processor": "Snapdragon 8 Gen 3",
+      "ram": "16GB",
+      "battery_capacity": "5500mAh",
+      "screen": "6.78in LTPO AMOLED",
+      "storage": "512GB",
+      "main_camera": "50MP Wide + 8MP UltraWide + 50MP Telephoto",
+      "os": "Android 15 (Realme UI 6)"
+    },
+    "image": "https://5.imimg.com/data5/SELLER/Default/2021/9/HR/PW/SE/32162519/vivo-mobile-phone.png"
+  },
+  {
+    "id": 10,
+    "category": "mobiles",
+    "name": "Nothing Phone (3)",
+    "brand": "Nothing",
+    "price": "$899",
+    "features": {
+      "processor": "Snapdragon 8s Gen 3",
+      "ram": "12GB",
+      "battery_capacity": "5000mAh",
+      "screen": "6.7in Flexible AMOLED",
+      "storage": "256GB",
+      "main_camera": "50MP Wide + 50MP UltraWide",
+      "os": "Android 15 (Nothing OS 3)"
+    },
+    "image": "https://5.imimg.com/data5/SELLER/Default/2021/9/HR/PW/SE/32162519/vivo-mobile-phone.png"
+  },
+  {
+    "id": 11,
+    "category": "mobiles",
+    "name": "iPhone 17 Pro Max",
+    "brand": "Apple",
+    "price": "$1299",
+    "features": {
+      "processor": "A19 Pro",
+      "ram": "12GB",
+      "battery_playback": "30h",
+      "screen": "6.9in Super Retina XDR",
+      "storage": "512GB",
+      "main_camera": "48MP Wide + 48MP UltraWide + 48MP Telephoto (8x optical-quality zoom)",
+      "os": "iOS 26"
+    },
+    "image": "https://5.imimg.com/data5/SELLER/Default/2021/9/HR/PW/SE/32162519/vivo-mobile-phone.png"
+  },
+  {
+    "id": 12,
+    "category": "mobiles",
+    "name": "Samsung Galaxy S25 Ultra",
+    "brand": "Samsung",
+    "price": "$1399",
+    "features": {
+      "processor": "Snapdragon 8 Gen 4 for Galaxy",
+      "ram": "16GB",
+      "battery_usage": "30h",
+      "screen": "6.9in Dynamic AMOLED 2X",
+      "storage": "512GB",
+      "main_camera": "200MP Wide + 50MP UltraWide + 50MP 5x Telephoto + 10MP 3x Telephoto",
+      "os": "Android 15 (One UI 7)"
+    },
+    "image": "https://5.imimg.com/data5/SELLER/Default/2021/9/HR/PW/SE/32162519/vivo-mobile-phone.png"
+  },
+  {
+    "id": 13,
+    "category": "mobiles",
+    "name": "Google Pixel 9 Pro XL",
+    "brand": "Google",
+    "price": "$1099",
+    "features": {
+      "processor": "Google Tensor G4",
+      "ram": "16GB",
+      "battery_usage": "31h",
+      "screen": "6.8in Super Actua Display",
+      "storage": "256GB",
+      "main_camera": "50MP Wide + 48MP UltraWide + 48MP 5x Telephoto",
+      "os": "Android 15"
+    },
+    "image": "https://5.imimg.com/data5/SELLER/Default/2021/9/HR/PW/SE/32162519/vivo-mobile-phone.png"
+  },
+  {
+    "id": 14,
+    "category": "mobiles",
+    "name": "Xiaomi 14 Ultra",
+    "brand": "Xiaomi",
+    "price": "$1299",
+    "features": {
+      "processor": "Snapdragon 8 Gen 3",
+      "ram": "16GB",
+      "battery_capacity": "5000mAh",
+      "screen": "6.73in LTPO AMOLED",
+      "storage": "512GB",
+      "main_camera": "50MP (1-inch sensor) + 50MP UltraWide + 50MP 3.2x Telephoto + 50MP 5x Periscope",
+      "os": "Android 14 (HyperOS)"
+    },
+    "image": "https://5.imimg.com/data5/SELLER/Default/2021/9/HR/PW/SE/32162519/vivo-mobile-phone.png"
+  },
+  {
+    "id": 15,
+    "category": "mobiles",
+    "name": "OnePlus 13",
+    "brand": "OnePlus",
+    "price": "$999",
+    "features": {
+      "processor": "Snapdragon 8 Gen 4",
+      "ram": "16GB",
+      "battery_capacity": "6000mAh",
+      "screen": "6.8in LTPO AMOLED",
+      "storage": "512GB",
+      "main_camera": "50MP Wide + 50MP UltraWide + 64MP Periscope Telephoto",
+      "os": "Android 15 (OxygenOS 15)"
+    },
+    "image": "https://5.imimg.com/data5/SELLER/Default/2021/9/HR/PW/SE/32162519/vivo-mobile-phone.png"
+  },
+  {
+    "id": 16,
+    "category": "mobiles",
+    "name": "Oppo Find X8 Pro",
+    "brand": "Oppo",
+    "price": "$1099",
+    "features": {
+      "processor": "Dimensity 9300+",
+      "ram": "16GB",
+      "battery_capacity": "5000mAh",
+      "screen": "6.82in LTPO AMOLED",
+      "storage": "512GB",
+      "main_camera": "50MP Wide + 50MP UltraWide + 50MP Telephoto",
+      "os": "Android 15 (ColorOS 15)"
+    },
+    "image": "https://5.imimg.com/data5/SELLER/Default/2021/9/HR/PW/SE/32162519/vivo-mobile-phone.png"
+  },
+  {
+    "id": 17,
+    "category": "mobiles",
+    "name": "Vivo X100 Pro+",
+    "brand": "Vivo",
+    "price": "$1199",
+    "features": {
+      "processor": "Snapdragon 8 Gen 4",
+      "ram": "16GB",
+      "battery_capacity": "5400mAh",
+      "screen": "6.78in LTPO AMOLED",
+      "storage": "512GB",
+      "main_camera": "50MP (1-inch sensor) + 50MP UltraWide + 200MP Periscope Telephoto",
+      "os": "Android 15 (Funtouch OS 15)"
+    },
+    "image": "https://5.imimg.com/data5/SELLER/Default/2021/9/HR/PW/SE/32162519/vivo-mobile-phone.png"
+  },
+  {
+    "id": 18,
+    "category": "mobiles",
+    "name": "Honor Magic 6 Pro",
+    "brand": "Honor",
+    "price": "$999",
+    "features": {
+      "processor": "Snapdragon 8 Gen 3",
+      "ram": "12GB",
+      "battery_capacity": "5600mAh",
+      "screen": "6.8in LTPO OLED",
+      "storage": "256GB",
+      "main_camera": "50MP Wide + 50MP UltraWide + 180MP Periscope Telephoto",
+      "os": "Android 14 (MagicOS 8)"
+    },
+    "image": "https://5.imimg.com/data5/SELLER/Default/2021/9/HR/PW/SE/32162519/vivo-mobile-phone.png"
+  },
+  {
+    "id": 19,
+    "category": "mobiles",
+    "name": "ZTE Nubia Z60 Ultra",
+    "brand": "ZTE",
+    "price": "$799",
+    "features": {
+      "processor": "Snapdragon 8 Gen 3",
+      "ram": "12GB",
+      "battery_capacity": "6000mAh",
+      "screen": "6.8in AMOLED (Under-display camera)",
+      "storage": "512GB",
+      "main_camera": "50MP Wide + 50MP UltraWide + 64MP Periscope Telephoto",
+      "os": "Android 14 (MyOS 14)"
+    },
+    "image": "https://5.imimg.com/data5/SELLER/Default/2021/9/HR/PW/SE/32162519/vivo-mobile-phone.png"
+  },
+  {
+    "id": 20,
+    "category": "mobiles",
+    "name": "Fairphone 6",
+    "brand": "Fairphone",
+    "price": "$799",
+    "features": {
+      "processor": "Snapdragon 7 Gen 3",
+      "ram": "8GB",
+      "battery_capacity": "4200mAh (removable)",
+      "screen": "6.5in OLED",
+      "storage": "256GB",
+      "main_camera": "50MP Wide + 50MP UltraWide",
+      "os": "Android 15"
+    },
+    "image": "https://5.imimg.com/data5/SELLER/Default/2021/9/HR/PW/SE/32162519/vivo-mobile-phone.png"
+  },
+  {
+    "id": 21,
+    "category": "laptops",
+    "name": "MacBook Pro 16",
+    "brand": "Apple",
+    "price": "$2499",
+    "features": {
+      "processor": "M4 Max",
+      "ram": "32GB",
+      "storage": "1TB SSD",
+      "screen": "16.2in Liquid Retina XDR",
+      "gpu": "Integrated 40-core GPU",
+      "os": "macOS Sonoma"
+    },
+    "image": "https://img.freepik.com/premium-vector/laptop-macbook-mockup-vector-with-blank-screen_410639-141.jpg?semt=ais_hybrid&w=740&q=80"
+  },
+  {
+    "id": 22,
+    "category": "laptops",
+    "name": "Dell XPS 13 (2025)",
+    "brand": "Dell",
+    "price": "$1299",
+    "features": {
+      "processor": "Intel Core Ultra 7",
+      "ram": "16GB",
+      "storage": "512GB SSD",
+      "screen": "13.4in InfinityEdge OLED",
+      "gpu": "Intel Arc Graphics",
+      "os": "Windows 11"
+    },
+    "image": "https://img.freepik.com/premium-vector/laptop-macbook-mockup-vector-with-blank-screen_410639-141.jpg?semt=ais_hybrid&w=740&q=80"
+  },
+  {
+    "id": 23,
+    "category": "laptops",
+    "name": "HP Spectre x360 14",
+    "brand": "HP",
+    "price": "$1399",
+    "features": {
+      "processor": "Intel Core Ultra 5",
+      "ram": "16GB",
+      "storage": "1TB SSD",
+      "screen": "14in 2.8K OLED Touch",
+      "gpu": "Intel Arc Graphics",
+      "os": "Windows 11"
+    },
+    "image": "https://img.freepik.com/premium-vector/laptop-macbook-mockup-vector-with-blank-screen_410639-141.jpg?semt=ais_hybrid&w=740&q=80"
+  },
+  {
+    "id": 24,
+    "category": "laptops",
+    "name": "Lenovo ThinkPad X1 Carbon Gen 13",
+    "brand": "Lenovo",
+    "price": "$1799",
+    "features": {
+      "processor": "Intel Core Ultra 9",
+      "ram": "32GB",
+      "storage": "2TB SSD",
+      "screen": "14in 4K OLED",
+      "gpu": "Intel Arc Graphics",
+      "os": "Windows 11 Pro"
+    },
+    "image": "https://img.freepik.com/premium-vector/laptop-macbook-mockup-vector-with-blank-screen_410639-141.jpg?semt=ais_hybrid&w=740&q=80"
+  },
+  {
+    "id": 25,
+    "category": "laptops",
+    "name": "Asus ROG Zephyrus G16",
+    "brand": "Asus",
+    "price": "$1999",
+    "features": {
+      "processor": "AMD Ryzen 9 8945HS",
+      "ram": "32GB",
+      "storage": "1TB SSD",
+      "screen": "16in Nebula OLED (240Hz)",
+      "gpu": "NVIDIA GeForce RTX 4070",
+      "os": "Windows 11"
+    },
+    "image": "https://img.freepik.com/premium-vector/laptop-macbook-mockup-vector-with-blank-screen_410639-141.jpg?semt=ais_hybrid&w=740&q=80"
+  },
+  {
+    "id": 26,
+    "category": "laptops",
+    "name": "Microsoft Surface Laptop 6",
+    "brand": "Microsoft",
+    "price": "$1199",
+    "features": {
+      "processor": "Snapdragon X Elite",
+      "ram": "16GB",
+      "storage": "512GB SSD",
+      "screen": "13.5in PixelSense Touch",
+      "gpu": "Qualcomm Adreno",
+      "os": "Windows 11"
+    },
+    "image": "https://img.freepik.com/premium-vector/laptop-macbook-mockup-vector-with-blank-screen_410639-141.jpg?semt=ais_hybrid&w=740&q=80"
+  },
+  {
+    "id": 27,
+    "category": "laptops",
+    "name": "Razer Blade 14 (2025)",
+    "brand": "Razer",
+    "price": "$2599",
+    "features": {
+      "processor": "AMD Ryzen 9 9000-series",
+      "ram": "32GB",
+      "storage": "1TB SSD",
+      "screen": "14in QHD+ OLED (240Hz)",
+      "gpu": "NVIDIA GeForce RTX 4080",
+      "os": "Windows 11"
+    },
+    "image": "https://img.freepik.com/premium-vector/laptop-macbook-mockup-vector-with-blank-screen_410639-141.jpg?semt=ais_hybrid&w=740&q=80"
+  },
+  {
+    "id": 28,
+    "category": "laptops",
+    "name": "Acer Swift Edge 16",
+    "brand": "Acer",
+    "price": "$1099",
+    "features": {
+      "processor": "AMD Ryzen 7 8840U",
+      "ram": "16GB",
+      "storage": "1TB SSD",
+      "screen": "16in 3.2K OLED",
+      "gpu": "AMD Radeon Graphics",
+      "os": "Windows 11"
+    },
+    "image": "https://img.freepik.com/premium-vector/laptop-macbook-mockup-vector-with-blank-screen_410639-141.jpg?semt=ais_hybrid&w=740&q=80"
+  },
+  {
+    "id": 29,
+    "category": "laptops",
+    "name": "MSI Stealth 16 Studio",
+    "brand": "MSI",
+    "price": "$1899",
+    "features": {
+      "processor": "Intel Core i9-14900H",
+      "ram": "32GB",
+      "storage": "1TB SSD",
+      "screen": "16in QHD+ OLED (120Hz)",
+      "gpu": "NVIDIA GeForce RTX 4070",
+      "os": "Windows 11"
+    },
+    "image": "https://img.freepik.com/premium-vector/laptop-macbook-mockup-vector-with-blank-screen_410639-141.jpg?semt=ais_hybrid&w=740&q=80"
+  },
+  {
+    "id": 30,
+    "category": "laptops",
+    "name": "Google Pixelbook Pro",
+    "brand": "Google",
+    "price": "$1499",
+    "features": {
+      "processor": "Intel Core Ultra 7",
+      "ram": "16GB",
+      "storage": "512GB SSD",
+      "screen": "13.3in 3:2 QHD+ Display",
+      "gpu": "Intel Arc Graphics",
+      "os": "ChromeOS"
+    },
+    "image": "https://img.freepik.com/premium-vector/laptop-macbook-mockup-vector-with-blank-screen_410639-141.jpg?semt=ais_hybrid&w=740&q=80"
+  },
+  {
+    "id": 31,
+    "category": "laptops",
+    "name": "Gigabyte Aero 14 OLED",
+    "brand": "Gigabyte",
+    "price": "$1599",
+    "features": {
+      "processor": "Intel Core Ultra 7",
+      "ram": "32GB",
+      "storage": "1TB SSD",
+      "screen": "14in 2.8K OLED",
+      "gpu": "NVIDIA GeForce RTX 4060",
+      "os": "Windows 11"
+    },
+    "image": "https://img.freepik.com/premium-vector/laptop-macbook-mockup-vector-with-blank-screen_410639-141.jpg?semt=ais_hybrid&w=740&q=80"
+  },
+  {
+    "id": 32,
+    "category": "laptops",
+    "name": "Samsung Galaxy Book4 Ultra",
+    "brand": "Samsung",
+    "price": "$2199",
+    "features": {
+      "processor": "Intel Core Ultra 9",
+      "ram": "32GB",
+      "storage": "2TB SSD",
+      "screen": "16in Dynamic AMOLED 2X Touch",
+      "gpu": "NVIDIA GeForce RTX 4070",
+      "os": "Windows 11"
+    },
+    "image": "https://img.freepik.com/premium-vector/laptop-macbook-mockup-vector-with-blank-screen_410639-141.jpg?semt=ais_hybrid&w=740&q=80"
+  },
+  {
+    "id": 33,
+    "category": "laptops",
+    "name": "Framework Laptop 16",
+    "brand": "Framework",
+    "price": "$1699",
+    "features": {
+      "processor": "AMD Ryzen 7 7840HS",
+      "ram": "16GB",
+      "storage": "1TB SSD",
+      "screen": "16in 165Hz Display (Modular)",
+      "gpu": "AMD Radeon RX 7700S (Modular)",
+      "os": "Windows 11 / Linux"
+    },
+    "image": "https://img.freepik.com/premium-vector/laptop-macbook-mockup-vector-with-blank-screen_410639-141.jpg?semt=ais_hybrid&w=740&q=80"
+  },
+  {
+    "id": 34,
+    "category": "laptops",
+    "name": "Alienware m18 R2",
+    "brand": "Dell/Alienware",
+    "price": "$2799",
+    "features": {
+      "processor": "Intel Core i9-14900HX",
+      "ram": "64GB",
+      "storage": "2TB SSD",
+      "screen": "18in QHD+ (165Hz)",
+      "gpu": "NVIDIA GeForce RTX 4090",
+      "os": "Windows 11"
+    },
+    "image": "https://img.freepik.com/premium-vector/laptop-macbook-mockup-vector-with-blank-screen_410639-141.jpg?semt=ais_hybrid&w=740&q=80"
+  },
+  {
+    "id": 35,
+    "category": "laptops",
+    "name": "HP ZBook Studio G11",
+    "brand": "HP",
+    "price": "$2999",
+    "features": {
+      "processor": "Intel Core Ultra 9",
+      "ram": "64GB",
+      "storage": "4TB SSD",
+      "screen": "16in DreamColor OLED",
+      "gpu": "NVIDIA RTX 5000 Ada",
+      "os": "Windows 11 Pro"
+    },
+    "image": "https://img.freepik.com/premium-vector/laptop-macbook-mockup-vector-with-blank-screen_410639-141.jpg?semt=ais_hybrid&w=740&q=80"
+  },
+  {
+    "id": 36,
+    "category": "headphones",
+    "name": "Sony WH-1000XM6",
+    "brand": "Sony",
+    "price": "$399",
+    "features": {
+      "type": "Over-ear",
+      "connection": "Wireless (Bluetooth 6.0)",
+      "noise_cancellation": "Industry-leading ANC",
+      "battery_life": "40 hours",
+      "audio_codec": "LDAC, AAC, SBC",
+      "mic": "Advanced Voice Pickup Technology"
+    },
+    "image": "https://img.freepik.com/free-psd/stylish-gray-white-headphones-music-audio-device_632498-46115.jpg?semt=ais_hybrid&w=740&q=80"
+  },
+  {
+    "id": 37,
+    "category": "headphones",
+    "name": "Apple AirPods Max 2",
+    "brand": "Apple",
+    "price": "$599",
+    "features": {
+      "type": "Over-ear",
+      "connection": "Wireless (H3 Chip)",
+      "noise_cancellation": "Spatial Audio with Dynamic Head Tracking",
+      "battery_life": "25 hours",
+      "audio_codec": "AAC",
+      "mic": "Nine microphones"
+    },
+    "image": "https://img.freepik.com/free-psd/stylish-gray-white-headphones-music-audio-device_632498-46115.jpg?semt=ais_hybrid&w=740&q=80"
+  },
+  {
+    "id": 38,
+    "category": "headphones",
+    "name": "Bose QuietComfort Ultra",
+    "brand": "Bose",
+    "price": "$429",
+    "features": {
+      "type": "Over-ear",
+      "connection": "Wireless (Bluetooth 5.3)",
+      "noise_cancellation": "World-class ANC + Immersive Audio",
+      "battery_life": "24 hours",
+      "audio_codec": "AptX Adaptive",
+      "mic": "Wind-noise rejecting mics"
+    },
+    "image": "https://img.freepik.com/free-psd/stylish-gray-white-headphones-music-audio-device_632498-46115.jpg?semt=ais_hybrid&w=740&q=80"
+  },
+  {
+    "id": 39,
+    "category": "headphones",
+    "name": "Sennheiser Momentum 5",
+    "brand": "Sennheiser",
+    "price": "$349",
+    "features": {
+      "type": "Over-ear",
+      "connection": "Wireless (Bluetooth 5.2)",
+      "noise_cancellation": "Hybrid Adaptive ANC",
+      "battery_life": "60 hours",
+      "audio_codec": "AptX Adaptive, AAC, SBC",
+      "mic": "Four digital beamforming mics"
+    },
+    "image": "https://img.freepik.com/free-psd/stylish-gray-white-headphones-music-audio-device_632498-46115.jpg?semt=ais_hybrid&w=740&q=80"
+  },
+  {
+    "id": 40,
+    "category": "headphones",
+    "name": "Jabra Evolve2 85",
+    "brand": "Jabra",
+    "price": "$449",
+    "features": {
+      "type": "Over-ear",
+      "connection": "Wireless/Wired (USB-A/C)",
+      "noise_cancellation": "Digital Hybrid ANC",
+      "battery_life": "37 hours",
+      "audio_codec": "AAC, SBC",
+      "mic": "10-microphone technology (Boom Arm)"
+    },
+    "image": "https://img.freepik.com/free-psd/stylish-gray-white-headphones-music-audio-device_632498-46115.jpg?semt=ais_hybrid&w=740&q=80"
+  },
+  {
+    "id": 41,
+    "category": "headphones",
+    "name": "Beats Studio Pro",
+    "brand": "Beats (Apple)",
+    "price": "$349",
+    "features": {
+      "type": "Over-ear",
+      "connection": "Wireless/Wired (USB-C)",
+      "noise_cancellation": "Fully Adaptive ANC",
+      "battery_life": "40 hours (ANC off)",
+      "audio_codec": "AAC, SBC",
+      "mic": "Dual-beamforming mics"
+    },
+    "image": "https://img.freepik.com/free-psd/stylish-gray-white-headphones-music-audio-device_632498-46115.jpg?semt=ais_hybrid&w=740&q=80"
+  },
+  {
+    "id": 42,
+    "category": "headphones",
+    "name": "Shure AONIC 50 Gen 2",
+    "brand": "Shure",
+    "price": "$349",
+    "features": {
+      "type": "Over-ear",
+      "connection": "Wireless (Bluetooth 5.0)",
+      "noise_cancellation": "Adjustable ANC",
+      "battery_life": "45 hours",
+      "audio_codec": "AptX Adaptive, LDAC, AAC, SBC",
+      "mic": "Beamforming mics"
+    },
+    "image": "https://img.freepik.com/free-psd/stylish-gray-white-headphones-music-audio-device_632498-46115.jpg?semt=ais_hybrid&w=740&q=80"
+  },
+  {
+    "id": 43,
+    "category": "headphones",
+    "name": "Audio-Technica ATH-M50xBT2",
+    "brand": "Audio-Technica",
+    "price": "$199",
+    "features": {
+      "type": "Over-ear (Studio)",
+      "connection": "Wireless/Wired",
+      "noise_cancellation": "Passive Isolation",
+      "battery_life": "50 hours",
+      "audio_codec": "AAC, SBC, LDAC",
+      "mic": "Dual mics"
+    },
+    "image": "https://img.freepik.com/free-psd/stylish-gray-white-headphones-music-audio-device_632498-46115.jpg?semt=ais_hybrid&w=740&q=80"
+  },
+  {
+    "id": 44,
+    "category": "headphones",
+    "name": "Master & Dynamic MW75",
+    "brand": "Master & Dynamic",
+    "price": "$599",
+    "features": {
+      "type": "Over-ear (Premium)",
+      "connection": "Wireless (Bluetooth 5.1)",
+      "noise_cancellation": "Adaptive ANC",
+      "battery_life": "32 hours",
+      "audio_codec": "AptX Adaptive, AAC, SBC",
+      "mic": "Four mic talk solution"
+    },
+    "image": "https://img.freepik.com/free-psd/stylish-gray-white-headphones-music-audio-device_632498-46115.jpg?semt=ais_hybrid&w=740&q=80"
+  },
+  {
+    "id": 45,
+    "category": "headphones",
+    "name": "Google Pixel Buds Pro 2",
+    "brand": "Google",
+    "price": "$249",
+    "features": {
+      "type": "In-ear (TWS)",
+      "connection": "Wireless (Bluetooth 5.0)",
+      "noise_cancellation": "Active Noise Cancellation + Silent Seal™",
+      "battery_life": "7 hours (Buds), 31 hours (Case)",
+      "audio_codec": "AAC, SBC",
+      "mic": "Three mics per earbud"
+    },
+    "image": "https://img.freepik.com/free-psd/stylish-gray-white-headphones-music-audio-device_632498-46115.jpg?semt=ais_hybrid&w=740&q=80"
+  },
+  {
+    "id": 46,
+    "category": "headphones",
+    "name": "Samsung Galaxy Buds 4 Pro",
+    "brand": "Samsung",
+    "price": "$229",
+    "features": {
+      "type": "In-ear (TWS)",
+      "connection": "Wireless (Bluetooth 5.3)",
+      "noise_cancellation": "Intelligent ANC (2x better)",
+      "battery_life": "8 hours (Buds), 30 hours (Case)",
+      "audio_codec": "SSC, AAC, SBC",
+      "mic": "High Signal-to-Noise Ratio Mic"
+    },
+    "image": "https://img.freepik.com/free-psd/stylish-gray-white-headphones-music-audio-device_632498-46115.jpg?semt=ais_hybrid&w=740&q=80"
+  },
+  {
+    "id": 47,
+    "category": "headphones",
+    "name": "JBL Tour ONE M3",
+    "brand": "JBL",
+    "price": "$329",
+    "features": {
+      "type": "Over-ear",
+      "connection": "Wireless (Bluetooth 5.3)",
+      "noise_cancellation": "True Adaptive ANC",
+      "battery_life": "50 hours (ANC off)",
+      "audio_codec": "LDAC, AAC, SBC",
+      "mic": "4-mic crystal clear calls"
+    },
+    "image": "https://img.freepik.com/free-psd/stylish-gray-white-headphones-music-audio-device_632498-46115.jpg?semt=ais_hybrid&w=740&q=80"
+  },
+  {
+    "id": 48,
+    "category": "headphones",
+    "name": "V-MODA S-80",
+    "brand": "V-MODA",
+    "price": "$399",
+    "features": {
+      "type": "On-ear (Convertible to Over-ear)",
+      "connection": "Wireless (Bluetooth 5.0)",
+      "noise_cancellation": "Passive Isolation",
+      "battery_life": "20 hours",
+      "audio_codec": "AptX HD, AAC, SBC",
+      "mic": "Built-in Voice Assistant Mic"
+    },
+    "image": "https://img.freepik.com/free-psd/stylish-gray-white-headphones-music-audio-device_632498-46115.jpg?semt=ais_hybrid&w=740&q=80"
+  },
+  {
+    "id": 49,
+    "category": "headphones",
+    "name": "HyperX Cloud Alpha Wireless 2",
+    "brand": "HyperX",
+    "price": "$219",
+    "features": {
+      "type": "Over-ear (Gaming)",
+      "connection": "Wireless (2.4GHz)",
+      "noise_cancellation": "Passive Isolation",
+      "battery_life": "300 hours (Ultra-long)",
+      "audio_codec": "Proprietary",
+      "mic": "Detachable Noise-cancellation Mic"
+    },
+    "image": "https://img.freepik.com/free-psd/stylish-gray-white-headphones-music-audio-device_632498-46115.jpg?semt=ais_hybrid&w=740&q=80"
+  },
+  {
+    "id": 50,
+    "category": "headphones",
+    "name": "Nothing Ear (3)",
+    "brand": "Nothing",
+    "price": "$149",
+    "features": {
+      "type": "In-ear (TWS)",
+      "connection": "Wireless (Bluetooth 5.3)",
+      "noise_cancellation": "Active Noise Cancellation",
+      "battery_life": "8 hours (Buds), 40 hours (Case)",
+      "audio_codec": "LHDC 5.0, AAC, SBC",
+      "mic": "High-definition mic array"
+    },
+    "image": "https://img.freepik.com/free-psd/stylish-gray-white-headphones-music-audio-device_632498-46115.jpg?semt=ais_hybrid&w=740&q=80"
+  }
+]
