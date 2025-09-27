@@ -83,36 +83,44 @@ const ProductGrid = () => {
             ))}
           </select>
         </div>
-        <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-8 w-full">
-          {filteredProducts.map((p) => (
-            <div
-              key={p.id}
-              className="group p-5 bg-white dark:bg-gray-800 border border-gray-200 dark:border-gray-700 rounded-2xl shadow flex flex-col items-center text-center relative"
-            >
-              <i
-                className="bi bi-plus-circle-dotted text-gray-900 dark:text-white absolute top-4 right-4 text-2xl cursor-pointer 
-             hover:text-blue-600 active:scale-90 transition-transform duration-150 ease-in-out"
-                onClick={() => handleAddProduct(p.id)}
-              ></i>
-              <img
-                src={p.image}
-                alt={p.name}
-                className="w-28 h-28 object-contain mb-4 rounded-lg bg-gray-50 dark:bg-gray-900 shadow-sm"
-                loading="lazy"
-              />
-              <h3
-                className="text-xl font-bold text-gray-900 dark:text-white mb-1 truncate w-full"
-                title={p.name}
+        {filteredProducts.length === 0 ? (
+          <h1 className="flex items-center justify-center text-4xl mt-20 font-bold text-gray-600 dark:text-gray-300">
+            No Results Found
+          </h1>
+        ) : (
+          <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-8 w-full">
+            {filteredProducts.map((p) => (
+              <div
+                key={p.id}
+                className="group p-5 bg-white dark:bg-gray-800 border border-gray-200 dark:border-gray-700 rounded-2xl shadow flex flex-col items-center text-center relative"
               >
-                {p.name}
-              </h3>
-              <p className="text-gray-500 dark:text-gray-400 mb-2">{p.brand}</p>
-              <p className="text-lg font-bold text-blue-600 dark:text-blue-400">
-                {p.price}
-              </p>
-            </div>
-          ))}
-        </div>
+                <i
+                  className="bi bi-plus-circle-dotted text-gray-900 dark:text-white absolute top-4 right-4 text-2xl cursor-pointer 
+             hover:text-blue-600 active:scale-90 transition-transform duration-150 ease-in-out"
+                  onClick={() => handleAddProduct(p.id)}
+                ></i>
+                <img
+                  src={p.image}
+                  alt={p.name}
+                  className="w-28 h-28 object-contain mb-4 rounded-lg bg-gray-50 dark:bg-gray-900 shadow-sm"
+                  loading="lazy"
+                />
+                <h3
+                  className="text-xl font-bold text-gray-900 dark:text-white mb-1 truncate w-full"
+                  title={p.name}
+                >
+                  {p.name}
+                </h3>
+                <p className="text-gray-500 dark:text-gray-400 mb-2">
+                  {p.brand}
+                </p>
+                <p className="text-lg font-bold text-blue-600 dark:text-blue-400">
+                  {p.price}
+                </p>
+              </div>
+            ))}
+          </div>
+        )}
       </div>
     </div>
   );
