@@ -1,4 +1,5 @@
 # 📊 Product Comparison App
+Deployed URL: https://versus-products.vercel.app/
 
 <img width="1452" height="714" alt="image" src="https://github.com/user-attachments/assets/3426aefa-bb72-418c-8500-0d6b1400c2e3" />
 <img width="1455" height="705" alt="image" src="https://github.com/user-attachments/assets/07fcfb84-e057-4599-bd41-9641732214ce" />
