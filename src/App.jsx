@@ -3,7 +3,11 @@ import "./App.css";
 import Header from "./layout/Header";
 import ThemeContext from "./utils/ThemeContext";
 import Container from "./pages/Container";
-import { createBrowserRouter, RouterProvider } from "react-router-dom";
+import {
+  createBrowserRouter,
+  Navigate,
+  RouterProvider,
+} from "react-router-dom";
 import ProductGrid from "./pages/ProductGrid";
 import { Provider } from "react-redux";
 import Store from "./store/AppStore";
@@ -45,6 +49,10 @@ const browserRoute = createBrowserRouter([
         element: <CompareView />,
       },
     ],
+  },
+  {
+    path: "*",
+    element: <Navigate to="/" replace />,
   },
 ]);
 
