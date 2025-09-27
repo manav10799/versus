@@ -1,5 +1,14 @@
 # 📊 Product Comparison App
 
+<img width="1452" height="714" alt="image" src="https://github.com/user-attachments/assets/3426aefa-bb72-418c-8500-0d6b1400c2e3" />
+<img width="1455" height="705" alt="image" src="https://github.com/user-attachments/assets/07fcfb84-e057-4599-bd41-9641732214ce" />
+<img width="1447" height="735" alt="image" src="https://github.com/user-attachments/assets/515c6a58-99d9-4b4d-af55-06de28a30cd6" />
+<img width="328" height="659" alt="image" src="https://github.com/user-attachments/assets/2f1e7853-dff4-4c63-970c-4134145b6082" />
+<img width="322" height="652" alt="image" src="https://github.com/user-attachments/assets/f6ba0e1b-6715-4867-b847-65d377b477ae" />
+![Uploading image.png…]()
+
+
+
 An interactive and responsive web interface to compare products (Mobiles, Laptops, Headphones).  
 Built with **React, Tailwind CSS, Redux Toolkit, and LocalStorage**.
 
