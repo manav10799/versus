@@ -44,7 +44,7 @@ const ProductGrid = () => {
           </button>
           <Link to="compare">
             <div className="relative order-2 sm:order-none">
-              <p className="text-gray-900 dark:text-white cursor-pointer flex items-center">
+              <p className="text-blue-600 dark:text-blue-400 cursor-pointer flex items-center">
                 Compare
                 <i className="text-gray-900 dark:text-white bi bi-bar-chart-line ml-2"></i>
                 <span className="absolute text-xs -top-3 -right-4 rounded-full bg-amber-400 w-5 h-5 flex items-center justify-center">
@@ -90,7 +90,8 @@ const ProductGrid = () => {
               className="group p-5 bg-white dark:bg-gray-800 border border-gray-200 dark:border-gray-700 rounded-2xl shadow flex flex-col items-center text-center relative"
             >
               <i
-                className="bi bi-plus-circle-dotted text-gray-900 dark:text-white absolute top-4 right-4 text-2xl cursor-pointer"
+                className="bi bi-plus-circle-dotted text-gray-900 dark:text-white absolute top-4 right-4 text-2xl cursor-pointer 
+             hover:text-blue-600 active:scale-90 transition-transform duration-150 ease-in-out"
                 onClick={() => handleAddProduct(p.id)}
               ></i>
               <img
